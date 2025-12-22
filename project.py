@@ -2,8 +2,6 @@ import requests
 import datetime
 import os
 
-# mypy - type hint checking
-
 
 def main():
 
